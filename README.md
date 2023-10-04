@@ -213,8 +213,8 @@ yarn parcel build src/index.html
 
 > Explore the “dist” folder. Explain what is this folder.
 
-…
+Le Dossier dist semble être le dossier dans lequel le build de l'application s'enregistre. Les fichiers JavaScript sont générés à partir du code. Il y a également les fonction et méthode importée des dépendances pour que je code fonctionne. Le build récupère tout ce dont il a besoin dans les modules du node_module.
 
 > Explain the different files generated in dist folder. What are these files? Why they are named the way they are?
 
-…
+Dans le dossier dist, il y a plusieurs fichier. Dans un des fichier il y a le code rédigé par le développeur. D'autres fichier importent et déclare les fonctions qui viennent des dépendansces. Les noms en hash généré automatiquements sont là pour éviter le cash sur navigateur
