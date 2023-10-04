@@ -1,0 +1,136 @@
+{
+    "info":{
+        "competence":{
+            "des":{"competencename": "Affinity Designer", "img": "Media/Presentation/competence/affinity_designer.png", "id": "1"},
+            "pho":{"competencename": "Affinity Photo", "img": "Media/Presentation/competence/affinity_photo.png", "id": "2"},
+            "pub":{"competencename": "Affinity Publisher", "img": "Media/Presentation/competence/affinity_publisher.png", "id": "3"},
+            "htm":{"competencename": "HTML 5", "img": "Media/Presentation/competence/html.png", "id": "4"},
+            "css":{"competencename": "CSS 3", "img": "Media/Presentation/competence/css.png", "id": "5"},
+            "php":{"competencename": "PHP", "img": "Media/Presentation/competence/php.png", "id": "6"},
+            "dvr":{"competencename": "Da Vinci Resolve", "img": "Media/Presentation/competence/da_vinci_resolve.png", "id": "7"},    
+            "pyt":{"competencename": "Python", "img": "Media/Presentation/competence/python.png", "id": "8"},
+            "fig":{"competencename": "Figma", "img": "Media/Presentation/competence/figma.png", "id": "9"}
+        },
+        "competenceList":[
+            {"competencename": "Affinity Designer", "img": "Media/Presentation/competence/affinity_designer.png", "id": "1"},
+            {"competencename": "Affinity Photo", "img": "Media/Presentation/competence/affinity_photo.png", "id": "2"},
+            {"competencename": "Affinity Publisher", "img": "Media/Presentation/competence/affinity_publisher.png", "id": "3"},
+            {"competencename": "HTML 5", "img": "Media/Presentation/competence/html.png", "id": "4"},
+            {"competencename": "CSS 3", "img": "Media/Presentation/competence/css.png", "id": "5"},
+            {"competencename": "PHP", "img": "Media/Presentation/competence/php.png", "id": "6"},
+            {"competencename": "Da Vinci Resolve", "img": "Media/Presentation/competence/da_vinci_resolve.png", "id": "7"},    
+            {"competencename": "Python", "img": "Media/Presentation/competence/python.png", "id": "8"},
+            {"competencename": "Figma", "img": "Media/Presentation/competence/figma.png", "id": "9"}
+        ],
+        "about":{
+            "name": "Buchon",
+            "firstname":"Paul",
+            "birth":"2003-11-16",
+            "hobbies":{
+                "sail":{"title" : "La Voile", "content" : "J'ai découvert la voile en 2012 et j'ai cette passion depuis. Je suis auourd'hui moniteur de catamaran et je participe à des régates sur J-80.<br><a class='extlink' href='https://www.instagram.com/voiles_lannionnaises/'>Lien du instagram de l'association de J-80</a>"},
+                "viga":{"title" : "Le Jeu-Vidéo", "content" : "Je me suis toujours intéressé au jeu-vidéo, j'ai d'ailleurs pu m'essayer au développement de ceux-ci à deux reprises<br><a class='extlink' href='presentation.php?compid=8'>Voir ça</a>"},
+                "cine":{"title" : "Le Cinéma", "content" : "J'ai une passion pour le cinéma et j'essaie d'enrichir ma culture dans ce domaine. Je suis ainsi, en train de faire une liste des films que j'ai vus<br><a class='extlink' href='https://www.imdb.com/user/ur153237937/watchlist'>Liste des films</a>"}        
+            }
+        },
+        "project":[
+            {"projetname" : "Ville Cyberpunk",
+            "img" : "Media/Presentation/projet/VilleCyberpunk.png",
+            "date" : "28/10/2021",
+            "id" : "1",
+            "descriptiont" : "Afin de m’approprier Affinity Designer j’ai réalisé une ville isométrique dans le style cyberpunk. Cette création m’a permis de me familiariser avec l’outil de création isométrique d’Affinity Designer. De plus la réalisation de cette infographie m’a demandé un gros travail autour des ombres et lumières.",
+            "descriptions" : "Dans le cadre de ma formation MMI j’ai réalisé une ville cyperpunk en perspective isométrique ",
+            "logiciel" : [1]
+             },
+           {"projetname" : "Photomontage Mystique",
+           "img" : "Media/Presentation/projet/PhotomontageMysthique.png",
+           "id" : "2",
+           "date" : "17/11/2021",
+           "descriptiont" : "Afin de prendre en main le logiciel Affinity Photo et m’initier au photomontage, j’ai réalisé un portrait. L’idée de ce portrait d’une femme avec des éléments mystiques était de montrer du surnaturel dans de la banalité. La création de ce photomontage m’a permis de comprendre certains codes du photomontage.",
+           "descriptions" : "Réalisation d'un portrait de femme avec des éléments surnaturels",
+           "logiciel" : [2]
+            },
+           {"projetname" : "Autoportrait",
+           "img" : "Media/Presentation/projet/Autoportrait.png",
+           "id" : "3",
+           "date" : "23/02/2022",
+           "descriptiont" : "Dans le cadre d’un travail de création autour de l’autoportrait, j’ai réalisé un autoportrait en style low-poly. Cet autoportrait inclut deux interactions : une animation au survol des yeux et une autre au survol de la vague. Ce travail m’a permis de m’initier au low-poly et de consolider ma maîtrise d’Affinity Designer.<br> <a class='extlink' href='Media/Autoportrait'>Voir le portrait avec les interactions</a>",
+           "descriptions" : "Réalisation d'un Autoportrait Interactif dans le style Low-Poly",
+           "logiciel" : [1,4,5]
+            },
+           {"projetname" : "Logo Hicillem",
+           "img" : "Media/Presentation/projet/Hicillem.png",
+           "id" : "4",
+           "date" : "29/04/2022",
+           "descriptiont" : "Dans le cadre d’un travail de création de logo nous devions en créer un pour une marque de vêtements à destination des 16 – 25 ans. Le logo que j’ai créé cherchait à retranscrire un aspect urbain tout en pouvant être appliqué sur tout type de tissu et de couleur. Notre marque s’appelant HICILLEM j’ai cherché à faire un logotype moderne et reconnaissable. Ce travail m’a fait prendre conscience de tous les aspects sous-jacents à la création d’un logo.",
+           "descriptions" : "Réalisation d'un logo d'une marque de vêtements à destination des jeunes ",
+           "logiciel" : [1]
+            },
+           {"projetname" : "Logo pour la formation MMI",
+           "img" : "Media/Presentation/projet/LogoMMi.png",
+           "id" : "5",
+           "date" : "20/04/2022",
+           "descriptiont" : "Dans le cadre d’un travail en culture artistique, nous devions réaliser le logo de notre promotion de la formation MMI. Après une phase de recherches préliminaires, j’ai mis en évidence 3 éléments représentatifs de notre formation qui me semblaient essentiels pour un logo. Ceux-ci étaient :  la Polyvalence, l’Informatique, la Qualité. Ce logo a donc été réalisé en gardant ces éléments en tête.",
+           "descriptions" : "Réalisation d'un Logo pour la formation MMI",
+           "logiciel" : [1]
+            },
+           {"projetname" : "Gestionnaire de Collection",
+           "img" : "Media/Presentation/projet/pokemon.png",
+           "id" : "6",
+           "date" : "26/01/2022",
+           "descriptiont" : "Un projet que nous devions réaliser pour mettre en application tout ce que l’on avait appris en HTML, CSS et PHP était un gestionnaire de base de données. Cette base de données en JSON devait être mise à jour avec des fonctions PHP. L’affichage se faisait aussi avec du PHP. Ce travail m’a permis de comprendre le réel intérêt du PHP et ses diverses applications.<br><br><a class='extlink' href='Media/gestion'>Voir l'interface de Gestion</a>",
+           "descriptions" : "Interface web d'un gestionnaire de base de données d'une collection Pokemon ",
+           "logiciel" : [1,4,5,6,9]
+            },
+           {"projetname" : "Parodie de Fast&Furious en Anglais",
+           "img" : "Media/Presentation/projet/F&F.png",
+           "id" : "7",
+           "date" : "14/03/2022",
+           "descriptiont" : "Dans le cadre d’un travail de Groupe en anglais nous devions réaliser une parodie de film. Notre groupe a choisi Fast&Furious, car c’est un film de cinéma d’action et ainsi un film avec beaucoup de codes que l’on peut aisément parodier. Dans le cadre de ce travail j’ai principalement participé à l’écriture du scénario, au tournage en étant derrière la caméra et au montage. Ce travail souffre de beaucoup de défauts inhérents à un premier film mais il m’a permis d’en apprendre beaucoup sur le tournage d’une fiction.<br><br><a class='extlink' href='https://youtu.be/4lITmyCIJcg'>Voir la vidéo</a>",
+           "descriptions" : "Réalisation en groupe d'une parodie des films Fast&Furious",
+           "logiciel" : [7],
+           "video" :"<iframe width='560' height='315' src='https://www.youtube.com/embed/4lITmyCIJcg' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+            },
+           {"projetname" : "Publicité pour des dessous de verres connectés",
+           "img" : "Media/Presentation/projet/pub.png",
+           "id" : "8",
+           "date" : "22/05/2022",
+           "descriptiont" : "Dans le cadre d’un travail autour de la publicité, nous avons réalisé une pub pour des dessous de verres connectés. L’idée de la pub était de prendre un objet incongru et de réaliser un spot publicitaire pour le vendre. Nous avons décidé d’employer les codes d’un spot de prévention.<br><a class='extlink' href='https://youtu.be/BaVqLx-eNKE'>Voir la Vidéo</a>",
+           "descriptions" : "Réalisation d'un spot publicitaire pour des dessous de verres",
+           "logiciel" : [7],
+           "video" :"<iframe width='560' height='315' src='https://www.youtube.com/embed/BaVqLx-eNKE' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+            },
+           {"projetname" : "ArmorScience",
+           "img" : "Media/Presentation/projet/projetas.png",
+           "id" : "9",
+           "date" : "02/03/2022",
+           "descriptiont" : "Dans le cadre de la mise en application de ce que l’on a appris en Marketing et en Communication, nous avons dû travailler sur le renouvellement de la communication d’une association. Nous avons commencé par rédiger des analyses de l’association puis des recommandations pour renouveler leur communication web.<br><a class='extlink' href='Media/as/RAAS.pdf'>Voir le rapport d'analyse</a><br><a class='extlink' href='Media/as/RRN.pdf'>Voir le plan de recommandation</a><br><a class='extlink' href='Media/as/RDP.pdf'>Voir le Rapport de projet</a>",
+           "descriptions" : "Travail autour du renouvellement de la communication d'un association de vulgarisation scientifique",
+           "logiciel" : [1,3]
+            },    
+           {"projetname" : "UTOPEX CRYSTAL COVERAGE",
+           "img" : "Media/Presentation/projet/Utopex.png",
+           "id" : "10",
+           "date" : "08/04/2021",
+           "descriptiont" : "Dans le cadre d’un projet en spécialité NSI (Numérique et Sciences Informatiques), j’ai réalisé en groupe un jeu de Tower Defense Isométrique en Python. Si nous avons, avec mon groupe de 3 personnes, choisi de faire ce type de jeu, c'était pour nous mettre au défi et appliquer nos connaissances. Ce fut un challenge très stimulant car nous n’avions jamais développé auparavant un moteur de jeu. Dans ce projet, je me suis beaucoup occupé de tout ce qui est visuel, de la carte, des idées et du moteur. Je suis fier de ce projet que je trouve très abouti, bien qu’il soit perfectible sur beaucoup de points.",
+           "descriptions" : "Jeu de Tower Defense en vue Isométrique développé en python",
+           "logiciel" : [1,8]
+            },    
+           {"projetname" : "Dogapoly",
+           "img" : "Media/Presentation/projet/doga.png",
+           "id" : "11",
+           "date" : "10/04/2020",
+           "descriptiont" : "Dans le cadre d’un projet en spécialité NSI (Numérique et Sciences Informatiques) en classe de première, j’ai réalisé en groupe un jeu de Monopoly en python. Le défi était de réaliser avec nos connaissances un jeu en pygame. Nous avons, avec mon groupe de 3 personnes, choisi le Monopoly, car c’est un jeu avec diverses manières de jouer, ce qui rend d’autant plus intéressante la programmation. Dans ce projet je me suis principalement occupé de programmer les ordinateurs contre lesquels on peut jouer. Ce projet ne comporte aucun objet python car nous ne les connaissions pas à l’époque. Ainsi, ce projet serait codé bien différemment si nous devions le refaire.",
+           "descriptions" : "Jeu grandement inspiré du Monopoly développé en python sur Pygame",
+           "logiciel" : [8]
+            },
+           {"projetname" : "Maquette d'un site Marchand",
+           "img" : "Media/Presentation/projet/maquette.png",
+           "id" : "12",
+           "date" : "14/03/2022",
+           "descriptiont" : "Dans le cadre de ce travail d’ergonomie, nous devions réaliser la maquette la plus ergonomique possible. Nous avons choisi de faire une maquette de site marchand, car c’est l’un des types de site le plus répandu sur le Web. Il y en a des très utilisés, à partir desquels on pouvait analyser les points forts et les points faibles afin de proposer une expérience ergonomique. Dans ce travail j’ai participé à tous les aspects du site, de la réflexion à la mise en page en passant par le design.<br><a class='extlink' href='https://www.figma.com/file/i2jUb11pKQUreCP1m1esGm/Base-de-donn%C3%A9es-(Copy)?node-id=0%3A1'>Voir la maquette</a>",
+           "descriptions" : "Réalisation en groupe d'une maquette d'un site marchand de vente d'assets pour Photoshop, Blender etc.",
+           "logiciel" : [9]
+           }
+        ]
+    } 
+}
